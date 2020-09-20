@@ -1314,8 +1314,13 @@ button:focus {
 .single-post-area .navigation-area .nav-left:hover .thumb img {
   opacity: .5;
 }
-
+.home_details{
+  margin-top: 80px;
+}
 @media (max-width: 767px) {
+  .home_details{
+    margin-top: 120px
+  }
   .single-post-area .navigation-area .nav-left {
     margin-bottom: 30px;
   }
